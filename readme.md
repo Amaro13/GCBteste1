@@ -6,11 +6,9 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
- <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
@@ -35,10 +33,10 @@ Na linha de comando:
 
 ```bash
 # Clonar o repositório
-$ git clone
+$ git clone https://github.com/Amaro13/GCBteste1.git
 
 # Entrar nos diretórios
-$ cd `pasta`
+$ cd pasta*
 
 # Baixar as dependências
 $ npm install
